@@ -18,7 +18,6 @@ Na początek możesz sobie założyć, że obsługujemy jakieś 1,2 najważniejs
 potem możemy rozszerzać apke.
  */
 
-
 @SpringBootApplication
 public class BinanceApplication {
 
